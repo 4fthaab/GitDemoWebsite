@@ -32,3 +32,21 @@ a:hover {
 h2 {
     color: #24292f;
 }
+
+form {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 25px;
+    cursor: pointer;
+}
