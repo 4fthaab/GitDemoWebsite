@@ -15,6 +15,20 @@ main {
     padding: 60px;
 }
 
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #24292f;
+    text-decoration: none;
+    border: 1px solid #24292f;
+    border-radius: 4px;
+}
+
+a:hover {
+    background: #24292f;
+    color: #fff;
+}
+
 h2 {
     color: #24292f;
 }
